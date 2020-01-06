@@ -1,4 +1,6 @@
-# Wrapped Native Tokens of EWF
+# ERC-20 wrapped Native Tokens of EWF
+
+1:1 ratio
 
 EWC: [0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd](https://explorer.energyweb.org/address/0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd)
 - Name: Wrapped Energy Web Token
