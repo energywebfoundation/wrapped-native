@@ -1,0 +1,32 @@
+{
+  "name": "wrapped-native-ewf",
+  "version": "1.0.0",
+  "description": "ERC20 wrapped native tokens of EWF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energywebfoundation/wrapped-native.git"
+  },
+  "keywords": [
+    "wrapped",
+    "ewt",
+    "energy",
+    "web",
+    "token",
+    "erc20"
+  ],
+  "author": "Adam Nagy <adam.nagy@energyweb.org>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/energywebfoundation/wrapped-native/issues"
+  },
+  "homepage": "https://github.com/energywebfoundation/wrapped-native#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "truffle": "^5.1.7",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
